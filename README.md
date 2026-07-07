@@ -4,7 +4,7 @@
 <p>💻Currently working with Python and C</p>
 <p>🧩Always learning</p>
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=thiagoqueir0z&style=flat&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Bea3Lopes&style=flat&color=blue" alt="Profile views"/>
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
